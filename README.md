@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About us :</h2>
+<h3 align="left">About us :</h3>
 
 ###
 
@@ -27,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
+
+###
+
+<h3 align="left">Find us :</h3>
 
 ###
 
