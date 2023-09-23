@@ -1,4 +1,4 @@
-<h1 align="left">Yumiorders 🐱‍👤</h1>
+<h1 align="left">Yumiorders</h1>
 
 ###
 
